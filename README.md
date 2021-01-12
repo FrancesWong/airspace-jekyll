@@ -70,3 +70,6 @@ $ ./vendor/bundle/ruby/#{YOUR_RUBY_VERSION}/bin/jekyll server
 ## Main page 
 
 * Content is in index.html, change the text here. 
+* Images specified in css/airspace.css
+  * Image files kept in img/
+* Links in the header can be changed in _includes/header.html
