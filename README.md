@@ -63,3 +63,10 @@ Now run the server:
 ```sh
 $ ./vendor/bundle/ruby/#{YOUR_RUBY_VERSION}/bin/jekyll server
 ```
+
+
+# Organization 
+
+## Main page 
+
+* Content is in index.html, change the text here. 
